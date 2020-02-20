@@ -2,7 +2,7 @@
 title: "Mais où sont les trous de balles?"
 subtitle: "présentée au [Cégep Saint-Jean-sur-Richelieu](https://www.cstjean.qc.ca/)"
 author: "[Marc-André Désautels](https://madesautels.rbind.io) "
-date: "27 novembre 2019 <br><br> Présentation disponible à https://desautm.github.io/WaldCegep <br> Code disponible à  https://github.com/desautm/WaldCegep"
+date: "2 mars 2020 <br><br> Présentation disponible à https://desautm.github.io/WaldCegep <br> Code disponible à  https://github.com/desautm/WaldCegep"
 output:
   xaringan::moon_reader:
     lib_dir: libs
