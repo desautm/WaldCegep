@@ -1,8 +1,8 @@
 ---
 title: "Mais où sont les trous de balles?"
-subtitle: "présentée au [ClubMath de l'Université de Montréal](https://dms.umontreal.ca/~clubmath/index.html)"
+subtitle: "présentée au [Cégep Saint-Jean-sur-Richelieu](https://www.cstjean.qc.ca/)"
 author: "[Marc-André Désautels](https://madesautels.rbind.io) "
-date: "27 novembre 2019 <br><br> Présentation disponible à https://desautm.github.io/WaldClub <br> Code disponible à  https://github.com/desautm/WaldClub"
+date: "27 novembre 2019 <br><br> Présentation disponible à https://desautm.github.io/WaldCegep <br> Code disponible à  https://github.com/desautm/WaldCegep"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -253,19 +253,29 @@ Ils demandèrent à Wald quelle quantité de blindage ajouter aux diverses parti
 
 |            Section de l'avion           | Nombre de trous par pieds carrés |
 |-----------------------------------------|----------------------------------|
+| Partie 1                                | 1,11                             |
+| Partie 2                                | 1,73                             |
+| Partie 3                                | 1,55                             |
+| Partie 4                                | 1,8                              |
+
+---
+
+### Les trous de balles manquants
+
+Les officiers de l'armée voulaient obtenir la même protection avec moins de blindage, en se concentrant sur les endroits en ayant davantage besoin.
+
+> *The military was inclined to provide protection for those parts that on returning planes showed the most hits.*
+
+Ils demandèrent à Wald quelle quantité de blindage ajouter aux diverses parties de l'avion.
+
+#### **Question: Quelles sont les parties de l'avion nécessitant la plus grande quantité de blindage?**
+
+|            Section de l'avion           | Nombre de trous par pieds carrés |
+|-----------------------------------------|----------------------------------|
 | Moteur                                  | 1,11                             |
 | Fuselage (partie principale de l'avion) | 1,73                             |
 | Système de carburant                    | 1,55                             |
 | Reste de l'avion                        | 1,8                              |
-
-<!-- -- -->
-
-<!-- ### Vous pouvez voter à l'adresse: [http://bit.ly/TrousBalles](http://bit.ly/TrousBalles) -->
-
-<!-- --- -->
-<!-- ### Les résultats -->
-
-<!-- <iframe seamless src="https://docs.google.com/spreadsheets/d/1tgbKRrHQnyDP2lvgH5iQhrxLG75C3TafKSjFwmVEqkM/htmlembed/sheet?gid=1284962309&range=D2" width="800" height="500" frameborder="0" scrolling="no"></iframe> -->
 
 ---
 
