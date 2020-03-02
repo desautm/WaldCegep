@@ -341,13 +341,23 @@ class: inverse, center middle
 
 ### Quelques exemples
 
+--
+
 - En finance, le biais du survivant survient lors de l'exclusion des entreprises ayant fait faillite des études de performance.
+
+--
 
 - En production industrielle, on entend souvent « les produits étaient mieux fabriqués avant ».
 
+--
+
 - En architecture et en construction, les bâtiments de plus de 100 ans encore debout.
 
+--
+
 - Dans les carrières hypercompétitives, commes les athlètes d'élite.
+
+--
 
 - Une étude réalisée en 1987 montre que les chats qui chutent d'une hauteur équivalente à moins de six étages et qui survivent ont des blessures plus graves que les chats tombant d'une hauteur plus élevée. [High-rise syndrome in cats](https://www.ncbi.nlm.nih.gov/pubmed/3692980)
 
@@ -640,13 +650,23 @@ class: center, inverse, middle
 
 ### Les hypothèses
 
+--
+
 - Nous connaissons $N$, le nombre d'avions total.
+
+--
 
 - Nous connaissons pour tout $i$ ( $i=0,1,2,\ldots$ ) les nombres $S_i$, c'est-à-dire le  nombre d'avions ayant survécu à $i$ coups.
 
+--
+
 - Nous supposons que tous les avions disparus le sont en raison de tirs ennemis et donc $D_0=0$. Ceci implique que nous supposons qu'aucun avion ne peut être porté disparu en raison de problèmes mécaniques.
 
+--
+
 - Le nombre de tirs sur un avion est borné, c'est-à-dire que $D_j=0$ pour $j$ plus grand qu'un certain entier $m$.
+
+--
 
 - Pour simplifier la notation, nous écrirons $N_{j\geq i}$ pour signifier $\sum\limits_{j\geq i}N_j$.
 
